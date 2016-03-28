@@ -1,0 +1,33 @@
+{
+  "name": "public",
+  "authors": [
+    "chitohugo <hugochito@gmail.com>"
+  ],
+  "description": "yes",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.1",
+    "bootstrap-material-design": "~0.3.0",
+    "bootstrap-multiselect": "~0.9.13",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "jquery": "^2.2.2",
+    "multiple-select": "^1.2.1",
+    "select2": "~4.0.0",
+    "material-design-lite": "^1.1.3",
+    "material-design-icons": "^2.2.3"
+  }
+}
